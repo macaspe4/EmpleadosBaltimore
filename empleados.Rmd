@@ -26,3 +26,13 @@ View(datosRbase)
 
 ```
 
+# Importamos datos con Readr
+
+```{r}
+datosReadr <- read_csv("data/Baltimore_City_Employee_Salaries.csv")
+View(datosReadr)
+
+```
+
+
+
